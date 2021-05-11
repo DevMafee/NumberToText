@@ -1,6 +1,6 @@
 {
   "name": "number2text-bangla",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Node Package for Converting Bangla to English and Bangla",
   "main": "index.js",
   "scripts": {
