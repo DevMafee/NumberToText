@@ -12,7 +12,7 @@ function number2text(s=0, currency='USD', lang='en') {
             dg = ['Zero', 'One', 'Two', 'Three', 'Four', 'Five', 'Six', 'Seven', 'Eight', 'Nine'];
             tn = ['Ten', 'Eleven', 'Twelve', 'Thirteen', 'Fourteen', 'Fifteen', 'Sixteen', 'Seventeen', 'Eighteen', 'Nineteen'];
             tw = ['Twenty', 'Thirty', 'Forty', 'Fifty', 'Sixty', 'Seventy', 'Eighty', 'Ninety'];
-            hundred = 'Hundred and ';
+            hundred = 'Hundred ';
             only = ' Only';
             decimal = 'Point ';
             break;
